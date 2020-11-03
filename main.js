@@ -11,7 +11,7 @@ const ini = require('ini');
 
 var dateFormat = require('dateformat');
 
-var config = require("./my_config.js")
+var config = require("./config.js")
 var common = require('./common.js');
 
 const not = common.not;
